@@ -1,3 +1,4 @@
 (You wake up in an abandoned house. When you look up, you see a mysterious figure. You blink, and then it dissapears. What do you do?)
 (You go downstairs, and you see the door open. It looks very bright outside through the windows.)
 (You go outside of your house. It's really dark. It looks like a storm just happened.)
+(The thing, or person, dropped a note for you. It said "7/3/01". Those numbers seem familiar, but you can't remember. It also had an arrow, pointing to your left.)

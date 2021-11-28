@@ -28,5 +28,12 @@ if gameStart == 1:
     print(sLine[2])  
     option = input(oLine[1])
     option = int(option)
+    if option == 1:
+      print(op1Line[1])
+      print(op2Line[1])
+    elif option == 2:
+      print(op2Line[2])
+    else:
+      print('invalid')
     s.close()
     o.close()
